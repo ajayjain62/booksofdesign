@@ -97,8 +97,13 @@ html, body{
     gap: 4vh;
 }
 
-.content h4{
-    font-size: 1vw;
+.content h4 {
+    justify-content: center;
+    display: flex
+;
+    align-items: center;
+    width: 60%;
+    font-size: 37px;
     font-family: Founder;
 }
 
